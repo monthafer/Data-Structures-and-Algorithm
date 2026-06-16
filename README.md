@@ -1,6 +1,6 @@
 # CSC121: Data Structures and Algorithms (C++ Implementations)
 
-Welcome to my personal implementations of core data structures and algorithms developed as part of the **CSC121: Data Structures and Algorithm** course curriculum. This repository showcases a comprehensive, evolutionary progression from basic models (like Points and Lists) to complex structures (AVL Trees) and interactive terminal applications.
+Welcome to my personal implementations of core data structures and algorithms developed as part of the **CCC121: Data Structures and Algorithm** course curriculum. This repository showcases a comprehensive, evolutionary progression from basic models (like Points and Lists) to complex structures (AVL Trees) and interactive terminal applications.
 
 ## Repository Structure
 

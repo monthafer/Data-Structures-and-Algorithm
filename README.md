@@ -109,7 +109,7 @@ g++ -std=c++11 -o avl_test avltreetest.cpp
 
 ---
 
-## 🎓 Academic Info
+## Academic Info
 *   **Course:** CSC121: Data Structures and Algorithm
 *   **Language:** C++ (C++11 or higher recommended)
 *   **Implementation Style:** Focuses on standard pointer manipulation, manual memory management (rule of three), template utility, and dynamic array resizing.
